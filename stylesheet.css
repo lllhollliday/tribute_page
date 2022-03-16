@@ -26,8 +26,8 @@
   
   .hide {
     display: none;
-    height: 100x;
-    width: 260px;
+    height: 400x;
+    width: 400px;
     margin-bottom: 30%;
     font-size: 15px;
     
@@ -42,8 +42,8 @@
   }
   
   img {
-    width: 260px;
-    height: 250px;
+    width: 400px;
+    height: 400px;
     padding-bottom: 20px;
     padding-top: 20px;
    
@@ -51,7 +51,7 @@
   
   ul {
     list-style: none;
-    margin-left: 38%;
+    margin-left: 33%;
     
   }
   
